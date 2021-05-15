@@ -14,6 +14,9 @@ class App extends Component {
 		return (
 			<div className="ui container">
 				<h1>POC - learning Use context</h1>
+				<a href="https://github.com/neo1380/React-context-poc" rel="noreferrer" target="_blank">
+					POC Repo Url
+				</a>
 				<p>
 					Context is about passing data from one component to another. For eg: passing the data from App
 					component to a nested child component. With props, we have to do prop drilling to achieve the same.
